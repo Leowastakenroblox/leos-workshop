@@ -1,5 +1,4 @@
-## Project Description
+## An website made for w0wdy and his community. Join our [Discord Server](https://discord.gg/h3lls) today!
 
-* [live example](https://learning-zone.github.io/website-templates/3-col-portfolio)
-
-![alt text](https://github.com/learning-zone/website-templates/blob/master/assets/3-col-portfolio.png "3-col-portfolio.png")
+* [Discord Server](https://discord.gg/h3lls)
+* [Telegram Server](https://t.me/w0wdys)
